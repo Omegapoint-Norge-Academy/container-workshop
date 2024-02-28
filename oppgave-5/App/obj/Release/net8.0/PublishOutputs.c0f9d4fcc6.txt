@@ -1,0 +1,5 @@
+/home/blixhavn/omegapoint/container-workshop/oppgave-2/App/bin/Release/net8.0/publish/DotNet.Docker
+/home/blixhavn/omegapoint/container-workshop/oppgave-2/App/bin/Release/net8.0/publish/DotNet.Docker.dll
+/home/blixhavn/omegapoint/container-workshop/oppgave-2/App/bin/Release/net8.0/publish/DotNet.Docker.deps.json
+/home/blixhavn/omegapoint/container-workshop/oppgave-2/App/bin/Release/net8.0/publish/DotNet.Docker.runtimeconfig.json
+/home/blixhavn/omegapoint/container-workshop/oppgave-2/App/bin/Release/net8.0/publish/DotNet.Docker.pdb
