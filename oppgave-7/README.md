@@ -6,7 +6,11 @@ Benytt `mcr.microsoft.com/dotnet/sdk:8.0` som base image for bygg-steget, og `mc
 
 <details>
 <summary>Hint 1</summary>
-Prosjektet bygges med `dotnet publish -c release -o out`
+Prosjektet bygges med 
+
+```
+dotnet publish -c release -o out
+```
 </details>
 
 <details>
