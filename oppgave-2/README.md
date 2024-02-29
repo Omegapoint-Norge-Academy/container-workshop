@@ -3,8 +3,8 @@
 1. Lag en Dockerfile som bruker `alpine:latest` som base image.
 1. Installer `curl` (`apk add curl`)
 1. Sett entrypoint til å kjøre `curl`
-1. Bygg Docker imaget (`docker build -t curler .`)
-1. Bruk containeren til å kjøre curl (`docker run curler https://ip.me`)
+1. Bygg Docker imaget
+1. Bruk containeren til å kjøre curl
 
 <details>
 <summary>Hint 1</summary>
