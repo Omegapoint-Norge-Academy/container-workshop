@@ -10,7 +10,7 @@
 <summary>Hint 1</summary>
 
 ```
-docker build -t curler .
+❯ docker build -t curler .
 ```
 </details>
 
@@ -18,7 +18,7 @@ docker build -t curler .
 <summary>Hint 2</summary>
 
 ```
-docker run curler <url>
+❯ docker run curler <url>
 ```
 </details>
 
