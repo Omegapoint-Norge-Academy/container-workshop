@@ -4,13 +4,20 @@ Start en container med nettverksmodus "None" og verifiser at kun loopback-grense
 
 
 <details>
-  <summary>Hint</summary>
+  <summary>Hint 1</summary>
 
-  `--network=none` 
-
-  `ifconfig` 
+  ```
+  --network=none
+  ```
 </details>
 
+<details>
+  <summary>Hint 2</summary>
+
+  ```
+  ifconfig
+  ```
+</details>
 
 <details>
   <summary>Løsing</summary>
