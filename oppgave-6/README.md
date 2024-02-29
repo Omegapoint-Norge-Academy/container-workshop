@@ -10,5 +10,12 @@ Verifiser at monterte volumer ikke forsvinner når docker-containeren stoppes
 <details>
   <summary>Løsning</summary>
 
-  `docker run -it -v ./persistent:/workfolder busybox`
+  ```
+  ❯ mkdir persistent
+  ❯ docker run -it -v ./persistent:/workfolder busybox
+  / # echo "hello" > workfolder/test.txt
+
+  ❯ cat persistent/test.txt
+  hello
+  ```
 </details>
