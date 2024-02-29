@@ -15,10 +15,12 @@ Start en container med nettverksmodus "None" og verifiser at kun loopback-grense
 <details>
   <summary>Løsing</summary>
   
-  `docker run --name nonetwork  --network=none -d praqma/network-multitool`
+  ```
+  docker run --name nonetwork  --network=none -d praqma/network-multitool
   
-  `docker exec -it nonetwork /bin/sh`
+  docker exec -it nonetwork /bin/sh
 
-  `ifconfig`
+  ifconfig
+  ```
 </details>
 
