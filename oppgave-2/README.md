@@ -7,6 +7,22 @@
 1. Bruk containeren til å kjøre curl (`docker run curler https://ip.me`)
 
 <details>
+<summary>Hint 1</summary>
+
+```
+docker build -t curler .
+```
+</details>
+
+<details>
+<summary>Hint 2</summary>
+
+```
+docker run curler <url>
+```
+</details>
+
+<details>
 <summary>Løsning</summary>
 
 ```
