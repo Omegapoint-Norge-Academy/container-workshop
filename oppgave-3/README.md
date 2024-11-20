@@ -55,3 +55,6 @@ COPY --from=builder /app/hello-world /
 ENTRYPOINT ["/hello-world"]
 ```
 </details>
+
+
+[Neste oppgave](/oppgave-4/README.md)

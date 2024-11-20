@@ -29,3 +29,6 @@ Start en container med nettverksmodus "None" og verifiser at kun loopback-grense
   ```
 </details>
 
+
+[Neste oppgave](/oppgave-5/README.md)
+

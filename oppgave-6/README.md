@@ -19,3 +19,6 @@ Verifiser at monterte volumer ikke forsvinner når docker-containeren stoppes
   hello
   ```
 </details>
+
+
+[Neste oppgave](/oppgave-7/README.md)

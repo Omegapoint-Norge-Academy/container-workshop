@@ -34,3 +34,6 @@ docker build -t curler .
 docker run curler example.com
 ```
 </details>
+
+
+[Neste oppgave](/oppgave-3/README.md)

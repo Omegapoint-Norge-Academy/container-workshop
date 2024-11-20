@@ -10,3 +10,6 @@ Kjør `nginx` i en Docker-container, eksponer port 80 og last eksempelsiden i ne
 ❯ curl localhost
 ```
 </details>
+
+
+[Neste oppgave](/oppgave-2/README.md)
