@@ -8,4 +8,4 @@ Start to containere i samme nettverk og verifiser at service discovery fungerer 
 </details>
 
 
-[Neste oppgave](/oppgave-5/README.md)
+[Neste oppgave](/oppgave-6/README.md)
