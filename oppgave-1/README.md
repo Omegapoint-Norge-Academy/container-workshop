@@ -1,6 +1,6 @@
 # Oppgave 1
 
-Kjør `nginx`, eksponer port 80 og last eksempelsiden i nettleseren din
+Kjør `nginx` i en Docker-container, eksponer port 80 og last eksempelsiden i nettleseren din
 
 <details>
 <summary>Løsning</summary>

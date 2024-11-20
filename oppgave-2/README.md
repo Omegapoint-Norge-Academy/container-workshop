@@ -18,7 +18,7 @@
 <summary>Hint 2</summary>
 
 ```
-❯ docker run curler <url>
+❯ docker run curler example.com
 ```
 </details>
 
@@ -29,5 +29,8 @@
 FROM alpine:latest
 RUN apk add curl
 ENTRYPOINT ["curl"]
+
+docker build -t curler .
+docker run curler example.com
 ```
 </details>
